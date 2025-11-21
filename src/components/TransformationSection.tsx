@@ -8,17 +8,17 @@ const transformations = [
   {
     name: "Sarah Johnson",
     result: "Lost 35lbs in 4 months",
-    image: "/fit-woman-athlete-smiling-confident-portrait.jpg",
+    image: "fit-woman-athlete-smiling-confident-portrait.jpg",
   },
   {
     name: "Mike Chen",
     result: "Gained 20lbs muscle",
-    image: "/muscular-athletic-man-workout-gym-portrait.jpg",
+    image: "muscular-athletic-man-workout-gym-portrait.jpg",
   },
   {
     name: "Emma Davis",
     result: "Completed first marathon",
-    image: "/athletic-woman-runner-stretching-outdoors-confiden.jpg",
+    image: "athletic-woman-runner-stretching-outdoors-confiden.jpg",
   },
 ]
 
